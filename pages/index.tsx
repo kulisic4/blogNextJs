@@ -21,7 +21,7 @@ export default function Home({
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello! I am software engineer, welcome to my blog.</p>
+        <p>Hello! I am Front End software engineer, welcome to my blog.</p>
         <p>
           (This is my Twitter account, feel free to check it out! {' '}
           <a href="https://twitter.com/kulisic4">my Twitter account</a>.)
