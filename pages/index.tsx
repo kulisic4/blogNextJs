@@ -24,7 +24,7 @@ export default function Home({
         <p>Hello! I am Front End software engineer, welcome to my blog.</p>
         <p>
           (This is my Twitter account, feel free to check it out! {' '}
-          <a href="https://twitter.com/kulisic4">my Twitter account</a>.)
+          <a href="https://twitter.com/kulisic4">Twitter</a>.)
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
